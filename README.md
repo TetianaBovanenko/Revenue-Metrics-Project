@@ -1,4 +1,4 @@
-I created a comprehensive dashboard for analyzing cash flows in this project, empowering product managers to track changes in cash inflows and conduct detailed analyses of influencing factors.
+In this project I created a dashboard for analyzing cash flows, empowering product managers to track changes in cash inflows and conduct detailed analysis of influencing factors.
 
 The dashboard includes several key metrics:
 
