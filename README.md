@@ -18,6 +18,10 @@ The dashboard includes several key metrics:
 
 The dashboard comprises seven charts with filters by date, user language, and age. Two charts specifically highlight factors influencing monthly revenue and paid users.
 
-During a visual presentation, I presented the project from the user's perspective, demonstrating how to effectively utilize the dashboard for informed decision-making.
-
 Link to Tableau Vizualization: https://public.tableau.com/app/profile/tetiana.bovanenko/viz/RevenueMetricsProject/RevenueMetrics
+
+Tech Solution:
+PostgreSQL (CTE, joins, data aggregation, window functions), Tableau (calculated fields, quick table calculations, dashboard creation)
+
+Skills Applied:
+Data Analysis · SQL · PostgreSQL · DBeaver · Business Intelligence (BI) · Financial Analysis · Tableau · Data Visualization
